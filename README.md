@@ -1,9 +1,4 @@
-# dio-desafio-dataproc
-Building a fully managed Hadoop ecosystem with Google Cloud Platform
-
 # Digital Innovation One
-
-Code created for use with the Digital Innovation One platform
 
 <p align="center"><img src="./DIO.png" width="500"></p>
 
